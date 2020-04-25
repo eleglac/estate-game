@@ -1,0 +1,202 @@
+ESTATE - a game of noble rank
+
+YOUR ROYAL HIGHNESS HAS WON CONTROL OF THE REALM AFTER A LONG STRUGGLE.  YOU AND SEVERAL OTHERS ARE THE FIRST AMONG THE LOYAL ALLIES WHO FOUGHT FOR YOUR LIEGE IN THE CAMPAIGN FOR THE THRONE.  IN REWARD FOR YOUR BRAVE SERVICE, YOU HAVE BEEN GRANTED LANDS OF YOUR OWN TO RULE - BUT REMEMBER, WITH GREAT POWER COMES GREAT RESPONSIBILITY...
+
+I. Your New Realm
+
+Congratulations, my liege!  Your grant of this new estate is a boon indeed!  You will need to govern wisely in order to make the most of this gift, and your duties will be numerous - producing resources, training troops, expanding your holdings, and ensuring brilliant marriages for your issue are just a few of your concerns, to say nothing of staying in favor with the Royal Highness.  You start your rule with a stout castle and some land - the rest is up to you...
+
+ESTATE is a game of resource management.  You must grow your initial grant through canny alliances and royal favor to ensure your bloodline a place in the annals of history.
+
+Your estate is made of forests, fields, and mountains, each of which can produce resources when worked by one of your loyal serfs.  As you grow in power and wealth, you may also build improvements - strongholds, temples, and towns - that provide their own special bonuses.  The market is always available to those who find themselves short of either resources or gold, but woe betide the noble who lacks both!
+
+The Royal Highness, while divinely appointed and incapable of wrong, is nevertheless often in need of assistance - financially, materially, and militarily - and will make requests throughout the game.  Fulfilling these requests will ensure you remain in favor at court and rewards will surely accrue to those who prove adept at satisfying Royal demand... although the Royal Highness can be QUITE fickle, so who knows what will actually happen?
+
+Finally, you must ensure that your issue are well placed - after all, what is all this work for if not to guarantee your family a place in the future to come?  Your children can be married off to enhance your holdings and wealth, or if you can swing it, perhaps your issue might even catch the eye of the Heir to the Throne...
+
+II.  Setting Up the Game
+
+a. The game begins with each player choosing a castle, to serve as their seat of power and the heart of their realm.  The castles are color-coded, but otherwise any differences are purely aesthetic and do not affect gameplay.  Once you have chosen your castle (and therefore your color) take the play tokens with that color from the box.  To determine the first player, each player contributes a colored token to a common pool, after which one token is blindly drawn from the pool.  This player goes first, with play proceeding clockwise unless otherwise specified.
+
+-> There are two kinds of colored tokens - Serfs and Favor - and while there are a finite number included, you may use your own materials to provide more of either should the need arise during the game.
+
+b. Next, take out four rectangular Land pieces for each player and place them in the center of the play area, face up.  Starting with the first player, each selects one Land in turn until all have selected one Land; the order of selection then reverses for each subsequent round, until all Lands are selected.  
+
+-> E.g. with three players A, B, and C, the selection order will proceed 1. A-B-C 2. C-B-A 3. A-B-C 4. C-B-A
+
+Once you have selected all four Lands, place each Land adjacent to your Castle, i.e. each Land must touch an edge of the Castle.
+
+-> Each Land piece contains two Holdings, each of which may be either a Field, a Wood, or a Mountain.  As you add more Lands to your estate, you must connect them to existing Lands by placing similar Holdings adjacent to each other; however, this rule DOES NOT APPLY during the Setup when you are placing your initial four Lands.
+
+Now that your initial Estate is established, take four Serfs and place them in your Estate.  
+
+-> Each holding may have, at most, one Serf.
+
+Collect one of the relevant Resource for each Holding that now contains a Serf - lumber from a Wood, grain from a Field, and stone from a Mountain - as well as 3 Gold.
+
+Set up the Market in the center of the play area by completely filling the first two (i.e. most expensive) boxes with resources.
+
+-> A war just ended, after all - resources are scarce, but that means profits for productive... just don't flood the market!
+
+Shuffle the Royal Request deck and place one Request card + one Request card per player face up in the center of the play area near the Market, where all players can see them.
+
+-> I.e. if there are three Players, place four Requests; four players, five Requests, etc.
+
+Place one Eligible Partner per player plus one in the center of the playing area.
+
+This completes the setup!  At this point, all players should have an Estate with four Lands, eight Holdings, four Serfs, four Resources, and three Gold, as well as their other colored play pieces.
+
+Let the striving begin!
+
+III.  Playing the Game!
+
+A game of ESTATE is played as a series of rounds during which each player takes one turn.  A turn may be made of as many Actions as a player can afford - generating or harvesting Resources, buying and selling in (or out of) the Market, fulfilling Royal requests, improving Holdings, etc.  
+
+Between rounds (not turns!), the Royal Highness will issue new Requests and reward Loyalty in a variety of ways.
+
+The game ends when...
+-> a player amasses 20 Holdings?
+-> a player's issue marries into the royal family?
+-> something else? or multiple possible win conditions?
+
+a. Resource Production and Harvesting
+
+Resources are produced when Serfs work their Holdings.  Each turn, a Holding worked by a Serf can produce one of its relevant Resource.
+
+-> A serf can be recruited at any time by spending three grain.  The serf thus recruited can be placed on any open Holding, but cannot produce until the next turn.  
+
+-> Production is optional: You do not need to produce resources in a turn if you do not want to.
+-> You cannot produce a resource in a Holding with no Serf.
+
+Each Holding can store up 2 units of its own resource prior to Harvesting.  Harvesting a Resource is done by moving ALL units of a Resource from the Holding to storage, either in your Castle or (later on) a Town.
+
+A Holding can either Produce OR Harvest in a single turn, not both.
+
+-> Storage is not unlimited, and any excess units of resource that cannot be stored are lost!  However, this loss only occurs when you are Harvesting.
+-> If you choose, you may leave resources at a Holding indefinitely, though it cannot produce when it is already holding 2 resources.  Resources so held cannot be used, however.
+-> You can choose to Harvest resources even if they cannot be stored anywhere - if you want to be wasteful, who am I to stop you?
+
+b. The Market
+
+The Market allows players to buy and sell resources in exchange for Gold.  The Market may be used any time during a turn either to buy or sell as many times as a player chooses.  Three resources may be traded in the Market - Grain, Lumber, and Stone.
+
+-> Note that ANY resource (including Luxuries, Lands, and Serfs!) may be traded among the players directly, if they choose.  Trades may only be initiated by the player whose turn it is, however.
+-> If you sell your own Castle, you immediately lose and must leave the game, no matter what you gained in return.  How could you have let money so corrupt your noble soul?
+
+To buy a resource, pay the gold figure quoted and take ALL of the units from ONE circle in the leftmost box containing the resource in question.
+
+-> These resources must be stored immediately in a Town or your Castle - any excess resources are lost!
+
+To sell a resource, first place the correct number of units of the resource in question on one of the empty circles in the leftmost box with space for them.  Then, gain the amount of gold quoted for that box.
+
+-> The price to sell will always be one fewer gold than the price to buy in a given box.
+-> It is possible for the Market to become saturated with (no more buyers) or run out of (no more sellers) a given resource.
+
+c. Fulfilling Royal Requests and Receiving Boons
+
+The Royal Highness will make requests throughout the game for men, money, and material.  Part of your feudal obligation is to help fulfill these requests for the good of the realm... and your own self-interest.
+
+Each request card indicates how it may be satisfied.  Usually this is by providing quantities of Resources or by building Improvements in your estate.  Each Request card will contain a number of circles containing specific resources; once all of the circles have been filled with the necessary items, the Request is considered satisfied.
+
+-> Multiple players may contribute to a Request, and/or individual players may contribute more than once on one turn or across multiple turns as their resources permit.
+
+During a round, players may choose to contribute their resources to the satisfaction of any Requests that are outstanding, though they are not required to.  
+
+To contribute, a player places a Favor token in the relevant circle on the card, along with all of the Resources requested in that circle.  Once all of the circles are filled, the resources are returned to the relevant stockpiles and the Favor is added to a common pool (to be used later in assigning Boons).  The Request card is then turned face down until the end of the round.
+
+d. Improving Holdings - Strongholds, Temples, Towns
+
+As the game progresses, it is possible to build improvements to your basic Holdings.  These Improvements grant new options to you during your turn, as well as providing places for your Issue to help further your ambitions, should you choose.  
+
+-> Improvements must be built on Fields.
+-> Any items produced in an Improved Holding (e.g. Gold in the Temple) are treated like resources produced in a regular Holding: two of that resource may be stored in the Improved Holding until being Harvested and moved to storage in your Castle or another Improved Holding.
+
+=> Strongholds
+
+Strongholds represent fortified outposts of your estate - they function as garrisons for the housing of troops, making it easier to satisfy certain Royal Requests, as well as enhancing your capacity to store Gold.  
+-> Strongholds cost 3 stone, 2 wood, and 1 gold to build
+-> Strongholds may store up to 10 Gold
+-> Strongholds can house up to 4 Militia by default (6 Militia with a Baron).
+-> Strongholds require one Grain and one Gold per two Militia housed there, rounded up. (i.e. one Grain for 1-2 militia, two grain for 3-4 militia, etc).  If either the grain OR gold is not available by the end of the turn, the excess unfed and/or unpaid militia must immediately be removed.
+
+=> Temples
+
+Temples are tributes to the glory of the Deity... as well as your power!  A Temple provides a steady gold income as well as a place to house some of the luxurious articles that you accrue during your reign.
+
+-> Temples cost 2 stone, 2 wood, and 2 luxuries to build.
+-> The stone and wood spent to build the temple are lost, but the luxuries are stored in the temple itself... at least, until you need them for something else.
+-> Temples produce 1 gold per turn (2 gold per turn with an Ecclesiast) in income as long as they house at least 1 luxury item.
+-> Temples may house up to 4 luxuries.
+
+=> Towns
+
+Towns are hubs of commerce and industry.  Specialized crafters can be found here along with the more traditional trades, giving you more flexibility in storing and using your resources.
+
+-> Towns cost 4 wood, 1 stone, and 1 gold to build.
+-> A Town can be used to produce 1 gold per turn (2 with a Lord Mayor)
+-> A Town can be used to convert 4 gold (3 with a Lord Mayor) into 1 luxury as an action
+-> A Town can store up to 10 units of Wood, Stone, or Grain in any combination
+
+e. Your Issue and Their Issues i.e. Courtship and its Discontents
+
+Given your interest in furthering your family line and ensuring your legacy survives you, it is only natural that you should want as many children as possible to help you during your life and to carry on the mission after you are gone.  Marriages between your children and the children of various other, more obscure, nobility can nevertheless bring sorely-needed resources to your estate.  Who knows - if you play your cards right, one of your issue may even catch the eye of the Heir to the Throne, and to marry into the Royal Family would elevate you above your peers for all time!
+
+All players start the game with three children, who need to be groomed and presented to society before they can marry.  Before a child is Out, their needs are comparatively few, but once Presented, they require Gold to stay in society - after all, dinners and gala events and parties and trips don't come cheap!
+
+-> To Present one of your children to Society, and thus announce their eligibility for proper courtship, costs 4 luxuries and 2 gold.  Thereafter, to maintain their place in society until married requires 2 gold per turn, including while courting!
+-> Eligible Partners are all looking for different things in a future spouse, and their desires are indicated on their cards; often they need gold, luxuries, and suitable positions for stash their less-successful relatives.  An Eligible Partner will not marry your offspring unless you can offer ALL of what they need!
+-> To satify their desires, place their requested resources on the circles along with a Favor token on their card during your turn, as with a Royal Request card.  
+=> Multiple suitors may compete for the hand of an Eligible Partner!  
+It is possible to put yourself above another suitor by providing more 
+of the things that the Eligible Partner wants: you must provide one 
+more than the current amount provided by the current favorite 
+courtier, then place a Favor token ON TOP of the current one, along with the resources you've provided.  This process may repeat for as long as the suitors care to invest in it. 
+-> The resources provided by the previous suitor are, of course, now the possession of the Eligible Partner and thus lost to that suitor forever.  However, some Favor remains...
+-> Once the courtship(s?) has run its course - that is, when Favor tokens from one suitor are atop all of the spaces on the Eligible Partner card - a Wedding may take place, at the cost of 3 Luxuries and 5 Gold.
+-> The Wedding does NOT need to take place as soon as it is possible to, in case resources are tight; however, the Eligible Partner (soon to become Devoted Spouse, and out of your mind forever) will NOT contribute the dowry to your holdings until AFTER the Wedding takes place.
+-> When the the Wedding takes place, any former Suitor may OBJECT!!!, in which case ALL of the favor tokens allotted to that Eligible Partner are placed in an opaque container and shaken thoroughly.  One token is then drawn.  If it belongs to the Suitor who OBJECT!!!ed - then the Wedding is off!  All resources invested are lost, no dowry is transferred, and the OBJECT!!!ing suitor is taken off the market permanently along with the Eligible Partner in question.  
+-> If the token does NOT belong to the OBJECT!!!ing suitor, then the Wedding is carried through as normal... but the OBJECT!!!ing suitor retreats from society thenceforth to face a lonely life of solitude as a pariah, for attempting to disrupt a joyous union.  That is, the suitor is removed from play, and all resources invested in their grooming are lost permanently.
+
+IV: In Between Rounds - Renewing Requests and Granting Boons
+
+Renewing the Requests, as well as assigning Boons, is handled in between rounds.
+
+Once a round has ended, Boons are assigned.  Similar to the Request cards, Boon cards contain a number of circles, each granting a particular reward, e.g. new Lands, Luxuries, Serfs, Gold, etc.
+
+-> For each face-down (i.e. satisfied) Request card, draw one Boon card and place it face-up on the table.  Once all Boon cards have been drawn, shake up the Favor tokens in the opaque container and draw one per circle on the Boon card, leaving any excess in the opaque container.
+-> Once the tokens are drawn, return them to the relevant players.  Beginning with the player who received the fewest Favor, and going in turn through to the player with the most Favor, players choose Boons, one at a time, until all Favor is exhausted.  
+-> If multiple players are tied for how much Favor they have during the assignation of the Boons, they will go in their usual turn order.
+-> Players may elect NOT to take Boons; however, in this case their Favor is lost.
+
+After the Boons have been allotted, refill the Request cards.
+-> Leave any active Requests, while adding cards to get back up to the number you started with (one card per player plus one extra).  This number of Request cards must be available at the beginning of every round.
+-> Requests remain in play until they are filled or the game ends!
+-> If you run out of Request or Boon cards, reshuffle the relevant pile and start over.
+
+V. Winning.
+
+For lack of a better win condition, the first person to work 20(?) lands with serfs is the winner.
+
+TODOS:
+
+- Actually include a marrying-the-Heir-to-the-Throne mechanic as a win condition
+- Rework the Eligible Partner pool.
+- Peasant rebellions!
+- What happens if you can't pay the gold cost to support your issue while they are Out?
+- More clarity about resource management: can only spend what is in storage, not what is waiting to be harvested; decide how many resources your Castle can hold
+- More on the militia: can house a garrison in the castle for free, can recruit from serf population
+- Roads/investment to connect holdings to castles, resources must move along roads
+- find MVP (potentially just Royal Request/Favor and basic holdings as mechanics, layer in Improvements, Courtship, etc. later)
+- determine actual play pieces needed, create prototype!!!!
+	- punched cardstock sheets for printing lands, requests, boons
+	- wooden/plastic tokens in different colors (favor and serfs)
+	- resource tokens (wood/plastic?)
+	- black bags
+- accessibility
+- digital version!
+- playtesting, refinements: make sure it's actually fun and not a confusing mess
+
+
+
+
+
