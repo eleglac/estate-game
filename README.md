@@ -15,3 +15,7 @@ Carcassonne (haven't ever played it but I suspect there's lots of parallels)
 Settlers of Catan (make sure a game is fun and not a chore)
 
 Power Grid (resource market mechanic)
+
+### Resource Links
+
+https://www.thegamecrafter.com/parts (various bits and pieces for the game - meeples, discs, resource tokens, Land cards)
