@@ -1,0 +1,61 @@
+MORE THOUGHTS ON ESTATE
+
+NB I didn't re-read my original rules before writing this, so some details may not line up.
+Yes, it's tech debt... so it can be resolved later.
+
+Rethinking the current state of the rules as they would affect the length of gameplay
+  -> I think a game should be able to be completed in 1 - 1.5 hours if you're not rushing
+  -> I suspect the current ruleset would make a full game take longer than this by a significant margin
+  -> The rules should clarify more about how the players are able to interact with one another, eg:
+    -> Trading?
+    -> Alliances?
+    -> PVP combat? (see notes below)
+    -> All the weird edge cases that good playtesters will inevitably find?
+
+Contemplating some changes to the lands system - in effect, what if it was more like CK2?
+  -> Each land becomes a "county," with "holding" slots
+    -> Holding types: field/grange, mine, forest, town, stronghold, temple - as in current ruleset
+  -> Holding slots are generic - can be improved into whatever type you can afford
+
+New win condition: rebel against the Royal Highness and usurp the throne!
+  -> Implies need to implement some kind of combat mechanic
+  -> And if there's combat, then surely players must be allowed to attack each other
+  -> How to allow "the throne" to defend itself?
+  -> This should replace the current boring win condition (i.e. have 20 holdings being worked at once)
+
+So, a combat mechanic!  Here is a first draft:
+  -> Soldiers may be deployed from a stronghold to any holding (including other player's)
+  -> If you completely occupy all the holdings in a county for a full turn, you capture the county
+    -> Capture: it is added to your fief with no improvements (war is hell, after all)
+  -> You must deploy more soldiers to a holding than are currently in it if you wish to capture it
+    -> At least 2x more if it's a stronghold
+  -> Each capture of a holding forces the loss of one soldier on each side
+  -> Soldier(s) forced to "retreat" after the capture of a holding are returned to a stronghold
+  -> Any holding that is occupied by soldiers, with the exception of strongholds, is non-functional
+
+Other thoughts on PVP combat:
+  -> Restrictions on who can attack each other when would probably be good
+    -> Force declaration of war aims (e.g. "I declare war on player X to capture county A (or counties A, B, C)")
+  -> Perhaps integrate the Royal Favor system... must solicit royal permission for war declarations?
+     -> Draw X # of Favor tokens and receive different levels of Royal support based on how many of your own tokens you draw
+     -> eg draw 3 tokens, you must draw at least one of your own color to be able to launch attack, but draw 3 and the RH gives you material assistance
+  -> NB this could be used for the proposed "revolt/rebellion" mechanic too
+    -> If you piss off the peasants enough, they occupy a holding and you have to send in the troops to crush the revolt
+
+Currently there are two proposed win conditions: marry the Heir to the Throne, or Usurp the Throne - should there be a third?
+  -> And if so, what?
+
+Is it important to correspond each turn to a "real" length of time? Eg. months, seasons, years?
+  -> Could allow for some more interesting mechanics, eg. troops can't march during winter
+    -> harsh season vs. mild season - semi-random (always know the season, but don't know the intensity ahead of time)
+      -> "harsh summer" - crops die vs. "mild summer" crops produce extra, for example
+      -> "harsh spring" - can't plant crops vs "mild spring" each planting immediately yields
+      -> etc.
+  -> OTOH, yet another level of complexity and yet more things to keep track of
+    -> IS IT FUN??? I don't think it would be but it might be worth playtesting
+
+Watching "The Borgias" gets me thinking, should organized religion be more of a thing in the game?
+  -> Curry favor with religious head and get bonuses
+  -> Would it/could it be that different from the main "royal highness" mechanic?
+  -> Again, is it fun or is it just extra shit to keep track of?
+  -> Or would it seem like a glaring omission if it were left out?

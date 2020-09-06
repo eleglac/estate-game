@@ -177,7 +177,7 @@ V. Winning.
 
 For lack of a better win condition, the first person to work 20(?) lands with serfs is the winner.
 
-TODOS:
+TODOS, in no particular order:
 
 - Actually include a marrying-the-Heir-to-the-Throne mechanic as a win condition
 - Rework the Eligible Partner pool.
@@ -191,7 +191,7 @@ TODOS:
 	- punched cardstock sheets for printing lands, requests, boons
 	- wooden/plastic tokens in different colors (favor and serfs)
 	- resource tokens (wood/plastic?)
-	- black bags
+	- piece bags
 - accessibility
 - digital version!
 - playtesting, refinements: make sure it's actually fun and not a confusing mess
