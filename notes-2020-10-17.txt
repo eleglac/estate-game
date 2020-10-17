@@ -1,0 +1,54 @@
+ 
+More thoughts on the core of the game
+
+- The part that I keep turning over in my head is the economy bit, need to make sure i get that right but also not go full grognard or whatever.
+- Playing with Tabletop Simulator has been fun!  Good way to prototype but i still want to make a physical version at some point
+- Bret Devereaux's blog (acoup.blog) has been enlightening - translating the processes he describes into an abstract representation is v fun.
+    - But not a game in itself!
+    
+Reflections on previous ideas
+- MVP does NOT need a market mechanic, or gold - players can trade directly with one another if they want.  Simpler that way!
+- Royal favor/requests/rewards system IS essential - basically the soul of the game right there
+- MVP can lose the "marry the throne" aspect, though that's still interesting and should come back at some point
+- Economy can be pared down a lot
+    - "luxuries" in particular feel grafted on
+    - Still like villages and castles as territory upgrades, but promoting citizens to "nobles" is unnecessary complexity
+- Still no well-established win condition!
+    - I liked the "usurp the throne" idea from the 9/5/20 notes but I didn't consider how it would actually be implemented
+    - Big problem considering I suggest getting rid of "marry the throne" as a win
+        - currently the only actual win is "twenty workers at once" which I thought (and still do think) sucks
+- So, TODO: work out how to "usurp the throne"
+    - Possible option: some kind of Game of Thrones "high council" mechanic?
+        - eg "Master of Coin," "Master of Arms," etc. if you reach certain levels of productivity/military
+            - a la "largest army" and "longest road" in Catan
+        - BUT THEN WHAT?
+- and, for now, live with "twenty worked holdings," god help me
+- "Seasons" make sense as stages of play
+- Players should NOT play simultaneous on a turn - take turns based on # of peasants (see more below in summary)
+- NO PVP IN MVP, NO PEASANT REVOLTS
+    - basically the only thing soldiers are used for in MVP is to gain Royal Favor
+    - this will change later on, never fear
+        - in fact, PVP could work like a "reverse upgrade" - go from duchy to county or county to barony
+        - like title usurpation in CKII, though how to simulate casus belli? work in 'favor' system?
+
+Major concern today: land-as-reward is likely to be crazy OP in current format
+- Land is the most important thing, foundation of all other economy
+- Randomly getting eg. a new duchy would totally throw off balance, make planning hard
+- But any system that ties land gain to player status (i.e. # of peasants) means "the rich get richer" which is ALSO unfun
+
+Solved(?) by not granting land, but rather land upgrades
+- Not strictly historical, but lololol historicism is more of a guideline than an actual rule
+
+Concern #2: balance of Royal Favor and Royal Requests
+- Basically, need to make sure that there are always Favor tokens to distribute once the first round of requests has been filled
+- Basic goal: if a player fills more requests, they should be more favored to get rewards, but NOT GUARANTEED
+    - of course, if they NEVER fill requests, they will NEVER get rewards
+
+Solved(?) by making sure requests generate more Favor tokens than are used
+- Each request card has one or more requests, generating one or more favor, but each reward card only has one reward, requiring one favor
+- Reward can be resources, new Counties, or Land Upgrades
+- Favor will accumulate in bag as game goes on, which might be a problem
+
+* * * *
+
+THESE NOTES TURNED INTO A REFINED RULESET FOR THE GAME, SEE rules-2020-10-17 for the new version!

@@ -1,0 +1,167 @@
+ 
+MOST RECENT RULES UPDATE FOR ESTATE:
+    - For more on the process, goto notes-2020-10-17.txt
+ 
+MVP Core Mechanics: Lands&Holdings + Royal Request/Favor/Reward system
+
+REQUIRED GAME PIECES:
+
+- Land Cards: Barony (2 production slots), County (3 slots), Duchy (4 slots)
+    - Represented as cards with circles on them, each circle being a Slot
+    - Each player starts with 3 Counties, so at least 12 of each kind of Land at minimum
+    
+- Five kinds of Holding: Grange, Forest, Mine, Village, Castle
+    - Represented as discs which can be placed over each Holding slot when the proper investment is made
+    - 30-40 of each should be enough
+
+- Generic resource chits
+    - grain, wood, iron ore, iron bars, peasants, soldiers
+    - More grain than anything, probably 100 ought to do it for a 4p game with less of the rest
+    - Peasant and soldier colors should be different from possible player colors
+        - peasant - brown or grey? soldiers black?
+
+- Royal favor tokens
+    - Player-colored discs
+    - 4 different colors, 10-20 of each
+
+- Royal Request cards
+    - Similar in style to the Land cards: circles on front, each with a single request inside
+    - 1 - 3 requests per card
+    - 1st request: easy (low resource requirement) 2nd medium, 3rd hard (high resource requirement)
+        - so cards with 1 request are easy always, 2 requests can be kinda hard, 3 requests are damn hard to fully fill
+    - some flavor text with a bit of worldbuilding for why the request is being made
+        - eg "Replenish the garrison," "refill the larders," "royal feast," "royal survey," etc.
+    - 30 of these to start - 15x 1 req, 10x 2 req, 5x 3 req
+
+- Royal Reward cards
+    - A single reward per card
+    - 30 of these as well - 10x land upgrade, 15x more resources, 5x "new county"
+    
+- Space for keeping track of Royal Request progress
+
+RULES:
+
+- TODO: Fill in "game setup" here
+    
+- ROYAL REQUESTS
+    - Represented as cards with circles on them; the circles contain resource icons
+    - Providing the requested number of resource in a single circle allows a player to place one of their colored Favor tokens on that circle
+        - Resources so invested return to the bank
+        - Resources must be provided ALL AT ONCE - either you can fill it or you can't, no gradualness
+    - Request cards move along a track, allowing "time outs" if requests aren't filled in time
+        - Track has four slots; Requests move along one slot per "season"
+    - The moment a request card is completely satisfied, all Favor tokens are placed in the Favor bag and the Request is set aside
+    - If a request card "times out" WITHOUT being satisfied, any Favor(s) on the card are placed in the bag and the Request is placed in the Request discard pile
+    - A royal request is added to the "track" at the beginning of each season, after Rewards are resolved and before players take their turns
+    
+- ROYAL REWARDS
+    - At the beginning of each season, before turns begin:
+    - a Reward card is drawn for each fulfilled Request from the previous season
+        - Once the Reward cards have been drawn, the Requests are placed in the Request discard pile
+    - A Favor token is drawn from the Favor bag for each Reward card.
+    - The player(s) so selected may claim their rewards in turn, beginning with the player who has the most peasants
+    - Once all Rewards have been distributed, player turns begin
+    - Three types of "rewards" - 
+        - Resources: you get raw materials
+            - Skew this so that the rewards are relatively much larger than the resources required to fulfill royal requests (gotta profit or why bother?)
+                - eg. iron and wood are more "valuable," as are peasants, but grain is less so
+        - Baronies
+            - You just get a new barony with two holding slots
+            - Relatively rare, but not tooooo rare - they're valuable in proportion to whether you can win or not without them
+                - In current balance, you CAN win without them if you get enough land upgrades
+        - Land upgrades
+            - Allows you to upgrade barony -> county or county -> duchy
+            - Mimics the granting of the parent title of a territory you already hold
+            - Useless if you only have duchies (but that's okay, surely?)
+            - When you choose to upgrade a Land, all extant holdings are kept in that Land
+                - It's as though you just added an extra holding slot to a Land you already have, basically
+            
+- PLAYER TURNS
+    - Most of what the players do will be managing the production of their Lands: investing in capital upgrades, producing resources, training troops, filling Royal Requests, etc.
+    - Each "round" represents a "season" (although currently this has little gameplay impact); each player takes one turn per season
+    - In each season, start by resolving any Royal Rewards that may be available, then add a new Royal Request to the track, then start player turns
+        - Players take turns in order, based on:
+            A. who has the most soldiers
+            B. who has the most peasants
+            C. who is the youngest
+        - I.e. go based on A by default, by B in case of ties, by C in case of further ties with B
+    - On their turn, players may do anything their resource stocks allow them to do; when they yield, play passes to the next player based on A/B/C above
+    
+- HOLDINGS AND THE ECONOMY
+    - Basic idea: Lands have Holding slots, Holdings can be one of 5 types (noted above), Holdings can produce Resources, Resources are invested in other projects, etc. etc.
+    - Players will have some initial amount of Lands and Holdings provided at the start of the game
+        - For now, 3 Counties (six Holding Slots) and one of each kind of Holding to be assigned as they see fit, along with two Peasants
+    - For simplicity, Resources can be stockpiled and distributed without restriction
+    - In certain situations, Upkeep must be paid (grain for Peasants and Soldiers - they gotta eat!)
+    
+    - BUILDING HOLDINGS:
+        - To build a holding, invest the appropriate resources then place a Holding Token "construction side up" on any Open holding slot
+            - The holding will become active and available for use next season (when construction is finished!); flip the token over to "active side up" to show this
+        - A holding may be removed to free up a Holding slot, if you wish
+            - Flip the token from Active to Construction, then remove it at the beginning of next season.
+            
+    - USING HOLDINGS:
+      - Each holding has its own rules for use.
+      - Unless otherwise stated, Peasants used to Work holdings cost no upkeep
+      - Peasants may only be moved once per Season 
+        - eg you can't move a peasant to a Forest, have it produce wood, then move it to a Mine and have it produce Ore in the same season
+      - I think I've written in some ambiguity regarding whether peasants can move and produce in the same turn, so for clarity:
+        - A Peasant can be moved to a Holding, and produce in the Holding, on the same turn
+        - A Peasant CANNOT be moved from a holding once it has produced in that holding on a turn
+    
+    - HOLDING TYPES    
+      - GRANGE (using the word wrong, I know, I know, I'll fix it TODO fix it) - construction cost 2 wood, 1 grain (represents a farmhouse/barn and "seed" capital lolololol)
+        - A Grange (grain field) must be Worked by a Peasant, and will grow grain over time
+        - A worked Grange will add two Grain per season it is worked
+        - A Grange may be harvested at any time, and MUST be harvested if it has six Grain at the beginning of a turn
+        - A Harvest may take any amount of grain present in a worked Grange and move it to your stockpile
+        - A Grange can either be Harvested or Worked in a single season, but not both!
+            - that is, you can't both grow grain and move it to your stockpile in the same turn
+            
+      - FOREST - construction cost 1 wood 1 iron bar (represents a 'foresters hut' and tools)
+        - Similar to a Grange, a Forest must be Worked by a Peasant
+        - A worked Forest will produce two Wood per season
+        - The wood so produced may be moved directly to your Stockpile
+        
+      - MINE - construction cost 3 wood 1 iron bar (represents mine supports and tools)
+        - A mine must be worked by TWO peasants
+        - When worked, a Mine will convert one Wood into one Iron Ore per season
+        - The iron ore
+        
+      - VILLAGE - construction cost 4 wood (represents several 'core' buildings)
+        - A Village has several possible roles, and can be "worked" multiple times in a season - if you have sufficient resources and peasants!
+            - Smithing: Two peasants in a village, plus two wood and one iron ore, can produce one Iron Bar in a season
+                - You cannot produce multiple Iron Bars without multiples of two peasants (along with the necessary resources)
+                    - eg: Four peasants, four wood, and two iron ore can produce two iron bars - but two or three peasants can only produce one Iron Bar no matter how many resources you have
+            - Immigration: Spending two grain in a Village allows you to recruit a new Peasant in that village
+                - Can be done multiple times per season
+                - Newly recruited peasants can be used for work IN THAT VILLAGE, but cannot be moved until the following season
+            - A Village can hold as many peasants as you want, if you can pay the upkeep!
+                - UPKEEP: Each peasant in a Village costs one Grain per season
+                - Peasants do NOT cost upkeep on the turn they are recruited
+                    - EG Pay two grain the first turn to recruit, one per turn thereafter to maintain
+                - If you can't pay the upkeep on any peasants before the END of a season, they are removed from the game - famine sucks!
+                    
+      - CASTLE/STRONGHOLD construction cost 5 wood 2 iron (lots of wood scaffolding for building stone structures, stone implied, iron for tools AND structures)
+        - Castles are where you train and house your military!
+            - Training: One peasant, plus one Wood and one Iron Bar, produces one Soldier
+            - Garrison: A Castle may hold up to three Soldiers; Soldiers can only be stationed in Castles
+            - Each Soldier costs one Grain upkeep per turn (except the turn it's Trained, as with recruiting Peasants)
+                - If you can't pay the upkeep by the end of the turn, the Soldier is removed
+                
+    - A NOTE ON UPKEEP:
+      - Since upkeep is due only at the end of a turn, if you find your grain reserves a bit short you can try and trade with your fellow players to make up the difference.
+      - Failing that, you can move peasants from Villages to unworked Forests, Granges, or Mines if they haven't already moved or worked this turn, as there are no upkeep costs for Peasants on these Holdings.
+      - If all else fails, and you're still short by the end of the turn, you can decide how to allot the available upkeep between your village Peasants and your Soldiers
+        - eg. if you have three soldiers and three peasants (six upkeep) but only four grain, you could keep all your soldiers alive and let two peasants starve, or all your peasants and let two soldiers starve, or keep two of each... your call
+        
+- WINNING
+  - Currently the only way to win is to get big: have ten worked holdings in your demesne
+    - NB This does not mean twenty holdings total! 
+    - Strongholds do not get "worked" EVER, and the other holdings are only "worked" if they have the right number of peasants: one each for Forests and Granges, two each for Mines and Villages
+        
+            
+            
+            
+            
+
