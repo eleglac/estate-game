@@ -16,6 +16,9 @@ for more about what I think still needs to be done.
 
 - Name change (I think "Demense" will probably work better than "Estate", but might get confused with Dominion? TBD)
 
+- Names for Lands (baronies, counties, duchies)
+  - Historical? Nonsensical? Generative? TBD
+
 - Art, art, art
     - Can't do it myself, don't want to do it myself, but it'll make or break the game IMHO
     - At least define what art is needed, eg. box art, card backs, new "icon" set, etc.
@@ -43,8 +46,8 @@ Bret Devereaux's blog, specifically the series on:
 
 ### Resource Links
 
-https://www.thegamecrafter.com/parts (various bits and pieces for the game - meeples, discs, resource tokens, Land cards)
-Tabletop Simulator: https://www.tabletopsimulator.com/ (prototyping - resource tokens taken from Steam Workshop)
-GNU Image Manipulation Program (aka "the GIMP") https://www.gimp.org/ (basic graphics)
-https://game-icons.net/ (free SVG game icons/symbols)
+- https://www.thegamecrafter.com/parts (various bits and pieces for the game - meeples, discs, resource tokens, Land cards)
+- Tabletop Simulator: https://www.tabletopsimulator.com/ (prototyping - resource tokens taken from Steam Workshop)
+- GNU Image Manipulation Program (aka "the GIMP") https://www.gimp.org/ (basic graphics)
+- https://game-icons.net/ (free SVG game icons/symbols)
 
