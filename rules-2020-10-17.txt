@@ -8,7 +8,7 @@ REQUIRED GAME PIECES:
 
 - Land Cards: Barony (2 production slots), County (3 slots), Duchy (4 slots)
     - Represented as cards with circles on them, each circle being a Slot
-    - Each player starts with 3 Counties, so at least 12 of each kind of Land at minimum
+    - Each player starts with 3 Baronies -> game needs at least 12 of each kind of Land at minimum
     
 - Five kinds of Holding: Grange, Forest, Mine, Village, Castle
     - Represented as discs which can be placed over each Holding slot when the proper investment is made
@@ -35,7 +35,7 @@ REQUIRED GAME PIECES:
 
 - Royal Reward cards
     - A single reward per card
-    - 30 of these as well - 10x land upgrade, 15x more resources, 5x "new county"
+    - 30 of these as well - 10x land upgrade, 15x more resources, 5x "new barony"
     
 - Space for keeping track of Royal Request progress
 
@@ -90,7 +90,7 @@ RULES:
 - HOLDINGS AND THE ECONOMY
     - Basic idea: Lands have Holding slots, Holdings can be one of 5 types (noted above), Holdings can produce Resources, Resources are invested in other projects, etc. etc.
     - Players will have some initial amount of Lands and Holdings provided at the start of the game
-        - For now, 3 Counties (six Holding Slots) and one of each kind of Holding to be assigned as they see fit, along with two Peasants
+        - For now, 3 Baronies (six Holding Slots) and one of each kind of Holding to be assigned as they see fit, along with two Peasants
     - For simplicity, Resources can be stockpiled and distributed without restriction
     - In certain situations, Upkeep must be paid (grain for Peasants and Soldiers - they gotta eat!)
     
