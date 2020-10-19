@@ -27,6 +27,9 @@ for more about what I think still needs to be done.
         - The UI style of Railway Empire is pretty close as well
         - Basically: saturated colors, flat-shaded, hand-drawn SVG look
 
+- Expand to other mechanics, eventually
+  - Esp Powergrid style market mechanic (removed from MVP)
+
 ### Inspirations:
 Downton Abbey ("agonizing about pig farming? what if that were a game?!")
 
@@ -37,8 +40,6 @@ Caverna (resource management aspect, land tiles, wooden bits and bobs)
 Carcassonne (haven't ever played it but I suspect there's lots of parallels)
 
 Settlers of Catan (make sure a game is fun and not a chore)
-
-Power Grid (resource market mechanic)
 
 Bret Devereaux's blog, specifically the series on:
  - farming: https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/

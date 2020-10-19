@@ -37,7 +37,7 @@ REQUIRED GAME PIECES:
     - A single reward per card
     - 30 of these as well - 10x land upgrade, 15x more resources, 5x "new barony"
     
-- Space for keeping track of Royal Request progress
+- Game mat for keeping track of Royal Request progress, holding card decks, etc.
 
 RULES:
 
