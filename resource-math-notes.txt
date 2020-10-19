@@ -1,0 +1,86 @@
+THOUGHTS ON REQUEST/REWARD MATHS
+
+General idea: investing in Royal Requests should be profitable, on average - but how profitable?  and in what ways?
+
+For reference, here are the relevant notes from the rules re: quantities of each card -
+
+- Royal Request cards
+    - 1 - 3 requests per card
+    - 1st request: easy (low resource requirement) 2nd medium, 3rd hard (high resource requirement)
+        - so cards with 1 request are easy always, 2 requests can be kinda hard, 3 requests are damn hard to fully fill
+
+    - 30 of these to start - 15x 1 req, 10x 2 req, 5x 3 req
+
+- Royal Reward cards
+    - A single reward per card
+    - 30 of these as well - 10x land upgrade, 15x new holdings, 5x "new barony"
+    - Two of these can only be got from the Royal Highness (i.e. baronies and upgrades) and Holdings are relatively resource-intensive
+    - Plain resources 
+    
+In addition to actual named "resources," tempo is valuable
+    - Both in-game and meta-game - player patience is ultimate resource (remember, it needs to be fun)
+    - In-game tempo helps you win
+    - Not sure how to analyze this further, except to note that royal rewards help accelerate tempo, mainly
+    
+HOLDING COSTS:
+
+- GRANGE (using the word wrong, I know, I know, I'll fix it TODO fix it) - construction cost 2 wood, 1 grain (represents a farmhouse/barn and "seed" capital lolololol)
+- FOREST - construction cost 1 wood 1 iron bar (represents a 'foresters hut' and tools)
+- MINE - construction cost 3 wood 1 iron bar (represents mine supports and tools)
+- VILLAGE - construction cost 4 wood (represents several 'core' buildings)
+- CASTLE/STRONGHOLD construction cost 5 wood 2 iron (lots of wood scaffolding for building stone structures, stone implied, iron for tools AND structures)
+
+ECONOMIC ACTIVITIES:
+
+- Farming: (requires one peasant on a grange) 2x grain/season up to 6
+- Harvest: (requires one peasant on a grange) Move grain to your stockpile
+- Forestry: (requires one peasant on a forest) 2x wood (per season)
+- Mining: (requires two peasants on a mine) 1x wood -> 1x iron ore (per season)
+- Smithing: (requires two peasants in a Village) 2x wood, 1x iron ore -> 1x iron bar per season
+- Migration: (any time in a Village) 2x grain -> 1x Peasant
+- Training: (any time in a Stronghold) 1x peasant, 1x wood, 1x iron bar -> 1 soldier
+
+The economy is set up to make iron bars a pain in the ass to get - this is intentional
+Soldiers are the "peak" of the economy - require building a stronghold (needs iron) then more iron to train!
+    - eg: First soldier cost: 1x stronghold (5xW 2xIB) + 1xP 1xW 1xIB -> 5xW 3xIB 1xP -> 5W + 3(3W) + 2G -> 14W 2G !
+    - P <- 2G, IB <- 2W + IO, IO <- W
+    - don't forget upkeep, either!
+    
+Generic production cost based on the idea of a "holding season" i.e. one holding worked during one season
+    - eg: a single forest produces 2 wood in a season, so 2x wood takes 1 holding season (maybe just "economic action")
+    - eg: 1 iron bar requires Smithing (in a Village), 1 ore (from a Mine), and 2 wood, from a Forester
+        - but the ore also takes wood, so 3 wood is the total cost -> 2 forestry actions
+        - so, four total actions: 1x smith, 1x mine, 2x forestry -> 4x holding seasons
+        - assumes holdings already exist, though - second forest must be built earlier
+
+Player wins when 10 holdings are worked, and each request only lasts four seasons -> provides bounds on what is reasonable to ask
+So, initial balance: easy request -> 5 actions, medium request -> 7 actions, hard request -> 10 actions
+
+The following table is a rough idea of equivalencies between different economic actions (I did the calculations in my head so who knows if they're totally right!)
+    - This table assumes the "infrastructure" is in place (holdings AND peasants)
+        - this takes into account the need for multiples of two peasants for multiple smelting actions in a turn
+    - Grain is weird because it requires a separate "harvest" step
+    - Migration, smithing, and training are not counted as "actions" because you can do them multiple times per turn (given the necessary resources)
+
+ 1 action:               2x  wood
+ 2 actions:  2x  grain   4x  wood    1x peasant  1x ore
+ 3 actions:  4x  grain   6x  wood    2x peasant  2x ore
+ 4 actions:  6x  grain   8x  wood    3x peasant  2x ore  1x iron bar
+ 5 actions:  6x  grain   10x wood    4x peasant  3x ore  1x iron bar 1x soldier
+ 6 actions:  8x  grain   12x wood    4x peasant  4x ore  2x iron bar 1x soldier
+ 7 actions:  10x grain   14x wood    5x peasant  4x ore  2x iron bar 1x soldier
+ 8 actions:  12x grain   16x wood    6x peasant  5x ore  3x iron bar 1x soldier
+ 9 actions:  12x grain   18x wood    6x peasant  6x ore  3x iron bar 2x soldier
+10 actions:  14x grain   20x wood    7x peasant  6x ore  4x iron bar 2x soldier
+
+So, as a first pass:
+
+EASY: 0-6   grain   0-10    wood     0-3 peasants    0-2 ore     1 iron bar  
+MED:  6-10  grain   10-14   wood     4-5 peasants    3-4 ore     2 iron bar  1 soldier
+HARD: 10-14 grain   14-20   wood     6-7 peasants    5-6 ore   3-4 iron bar  2 soldiers   
+
+And, given the 50 total requests on the 30 request cards, split it thus:
+
+15 easy requests (for the 2 and 3 request cards)
+20 medium requests (for the 1 and 3 request cards)
+15 hard requests (for the 2 and 3 request cards)

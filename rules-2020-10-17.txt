@@ -62,9 +62,9 @@ RULES:
     - The player(s) so selected may claim their rewards in turn, beginning with the player who has the most peasants
     - Once all Rewards have been distributed, player turns begin
     - Three types of "rewards" - 
-        - Resources: you get raw materials
-            - Skew this so that the rewards are relatively much larger than the resources required to fulfill royal requests (gotta profit or why bother?)
-                - eg. iron and wood are more "valuable," as are peasants, but grain is less so
+        - New holdings
+            - You get a new holding of your choice
+            - Could restrict this in future (i.e. is everybody just going to get strongholds?)
         - Baronies
             - You just get a new barony with two holding slots
             - Relatively rare, but not tooooo rare - they're valuable in proportion to whether you can win or not without them
@@ -93,6 +93,8 @@ RULES:
         - For now, 3 Baronies (six Holding Slots) and one of each kind of Holding to be assigned as they see fit, along with two Peasants
     - For simplicity, Resources can be stockpiled and distributed without restriction
     - In certain situations, Upkeep must be paid (grain for Peasants and Soldiers - they gotta eat!)
+    - Resources produced in a season may be used in the same season, but each Holding may only be worked a single time (unless otherwise noted, eg. the Village)
+        - so, for example, you can produce wood at a Forest, use it to produce an Iron Ore at a mine, then use the ore to make an iron bar in a village all in the same turn
     
     - BUILDING HOLDINGS:
         - To build a holding, invest the appropriate resources then place a Holding Token "construction side up" on any Open holding slot
