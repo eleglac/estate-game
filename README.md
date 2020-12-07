@@ -6,15 +6,11 @@ This is a repository for works related to a board game concept I am developing. 
 As of 2020-10-17 I consider the basic rules and game piece requirements to be decided on for an alpha version, but see the TODOs
 for more about what I think still needs to be done.
 
-### TODOs
-
-- Create "Royal Request" and "Royal Reward" cards in tabletop simulator, along with 
-    - NB Other pieces mentioned in rules-2020-10-17 are already set up in an example TTS game
-        - that is, the resource/favor tokens and land cards
+### TODOs (last updated 2020-12-06)
 
 - Set up TTS playtesting session(s)
 
-- Name change (I think "Demense" will probably work better than "Estate", but might get confused with Dominion? TBD)
+- Name change (I think "Demesne" will probably work better than "Estate", but might get confused with Dominion? TBD)
 
 - Names for Lands (baronies, counties, duchies)
   - Historical? Nonsensical? Generative? TBD
@@ -29,6 +25,9 @@ for more about what I think still needs to be done.
 
 - Expand to other mechanics, eventually
   - Esp Powergrid style market mechanic (removed from MVP)
+  - Different win mechanics
+    - Marrying the Royal Highness?
+    - Stage a coup against the Royal Highness?
 
 ### Inspirations:
 Downton Abbey ("agonizing about pig farming? what if that were a game?!")
@@ -36,8 +35,6 @@ Downton Abbey ("agonizing about pig farming? what if that were a game?!")
 Crusader Kings II (liege levies, general gamified knowledge of medieval nobility)
 
 Caverna (resource management aspect, land tiles, wooden bits and bobs)
-
-Carcassonne (haven't ever played it but I suspect there's lots of parallels)
 
 Settlers of Catan (make sure a game is fun and not a chore)
 
